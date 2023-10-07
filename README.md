@@ -24,6 +24,7 @@ The mat file should include [noisy_img] and [img] variables
 ```
 cd Denoise
 python main_*.py
+(We have uploaded KAIST Scene01 data. You can run main_1_KAIST.py directly.)
 ```
 
 
