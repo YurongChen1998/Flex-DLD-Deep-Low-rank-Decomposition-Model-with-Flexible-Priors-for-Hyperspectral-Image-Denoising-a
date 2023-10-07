@@ -27,6 +27,13 @@ python main_*.py
 (We have uploaded KAIST Scene01 data. You can run main_1_KAIST.py directly.)
 ```
 
+- ***Check Our Denoising Results***
+The denoised hyperspectral images of KAIST, WDC, CAVE, and IP datasets are available here: [Baidu drive](https://pan.baidu.com/s/1vGzzZmltadKDqTf2CPkWxw) (Code: 4g02)
+
+
+
+
+
 
 
 ---
@@ -47,6 +54,12 @@ cd Denoise/CASSI_Restoration/
 python main.py
 (We have uploaded KAIST Scene01 data. You can run main.py directly.)
 ```
+
+- ***Check Our Reconstructed Results***
+The reconstructed hyperspectral images of KAIST datasets are available here: [Baidu drive](https://pan.baidu.com/s/1LJ0W7QiTajowGZp_XCVVRw ) (Code: 87hh)
+
+
+
 
 
 
