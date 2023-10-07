@@ -2,10 +2,10 @@
 
 - ***Denoising Data Preparation***
 
-1) Datasets for hyperspectral images **denoising** experiments include: [KAIST], [Washington DC Mall], [CAVE], [Indian Pines]
+1) Datasets for hyperspectral images **denoising** experiments include: [KAIST](https://drive.google.com/drive/folders/1EmTZoOkfKnPQHfMCxcYyGH9uJJxzAz_5?usp=sharing), [Washington DC Mall](https://drive.google.com/drive/folders/12QBJk2EvaqjEdd5hNGPICzunT3NZk2XZ?usp=sharing), [CAVE](https://drive.google.com/drive/folders/1MwhGEpO6BzZYZkKtIME-mkFwgdIBBNbL?usp=sharing), [Indian Pines](https://drive.google.com/drive/folders/1vAkEki8JQMP3cavSVIf27b5XVOVudFjm?usp=drive_link)
 
 
-You can download in: [Google drive](https://drive.google.com/drive/folders/17LzFSdVCU2p0pfxbyghjZJw2nlf0yN97?usp=sharing) or [Baidu drive](https://pan.baidu.com/s/1mdLWXgvzkmQscfZu4t4M7A) (Code: u4er)
+You can download in: [Google drive](https://drive.google.com/drive/folders/1y9wa5fv87D73zW-F2N-5_wK3qPVLq12E?usp=sharing) or [Baidu drive](链接: https://pan.baidu.com/s/1NC-NcqVTR1yIFZyaE0aNOg) (Code: emg2)
 
 ```
 Put the downloaded data into the [Data] folder
@@ -31,10 +31,10 @@ python main_*.py
 ---
 - ***Restoration Data Preparation***
   
-Datasets for hyperspectral images **restoration** experiments include: [KAIST]
+Datasets for hyperspectral images **restoration** experiments include: [KAIST](https://drive.google.com/drive/folders/1f_vAYwCmXp1kNcg54yLO145I_tzdpwIs?usp=drive_link)
 
 
-You can download in: [Google drive](https://drive.google.com/drive/folders/17LzFSdVCU2p0pfxbyghjZJw2nlf0yN97?usp=sharing) or [Baidu drive](https://pan.baidu.com/s/1mdLWXgvzkmQscfZu4t4M7A) (Code: u4er)
+You can download in: [Google drive](https://drive.google.com/drive/folders/1f_vAYwCmXp1kNcg54yLO145I_tzdpwIs?usp=drive_link) or [Baidu drive](https://pan.baidu.com/s/1mdLWXgvzkmQscfZu4t4M7A) (Code: u4er)
 
 ```
 Put the downloaded data into the [Data] folder
