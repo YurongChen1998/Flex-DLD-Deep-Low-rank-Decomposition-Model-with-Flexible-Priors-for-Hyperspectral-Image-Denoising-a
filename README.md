@@ -1,7 +1,6 @@
 # Flex-DLD: Deep Low-rank Decomposition Model with Flexible Priors for Hyperspectral Image Denoising and Restoration
 
-- ***Data Preparation***
-
+- ***Denoising Data Preparation***
 
 1) Datasets for hyperspectral images **denoising** experiments include: [KAIST], [Washington DC Mall], [CAVE], [Indian Pines]
 
@@ -14,19 +13,12 @@ Put the downloaded data into the [Data] folder
 Alternatively, you can generate noisy hyperspectral images according to the code
 ```
 
-2) Datasets for hyperspectral images **restoration** experiments include: [KAIST]
-
-
-You can download in: [Google drive](https://drive.google.com/drive/folders/17LzFSdVCU2p0pfxbyghjZJw2nlf0yN97?usp=sharing) or [Baidu drive](https://pan.baidu.com/s/1mdLWXgvzkmQscfZu4t4M7A) (Code: u4er)
+2) Denosing your hyperspectral images
 
 ```
-Put the downloaded data into the [Data] folder
+Put your data into the [Data] folder
+The mat file should include [noisy_img] and [img] variables
 ```
-
-
-
-
----
 
 - ***Denoising Experiments***
 ```
@@ -37,8 +29,36 @@ python main_*.py
 
 
 ---
+- ***Restoration Data Preparation***
+  
+Datasets for hyperspectral images **restoration** experiments include: [KAIST]
+
+
+You can download in: [Google drive](https://drive.google.com/drive/folders/17LzFSdVCU2p0pfxbyghjZJw2nlf0yN97?usp=sharing) or [Baidu drive](https://pan.baidu.com/s/1mdLWXgvzkmQscfZu4t4M7A) (Code: u4er)
+
+```
+Put the downloaded data into the [Data] folder
+```
+
 - ***Restoration Experiments***
 ```
 cd Denoise/CASSI_Restoration/
 python main.py
+```
+
+
+
+
+---
+- ***Code Description***
+```
+main_*.py               : code for denoising
+optimization.py         : code of ADMM iteration
+func.py                 : code includes some useful functions
+test_metric             : code for evaluation
+model/model_loader.py   : code for loading deep low-rank networks
+model/LRNet.py          : code for designing network architecture
+model/common.py         : code includes some network blocks
+model/basicblock.py     : code includes some network blocks
+model/utils.py          : code includes functions for evaluation
 ```
