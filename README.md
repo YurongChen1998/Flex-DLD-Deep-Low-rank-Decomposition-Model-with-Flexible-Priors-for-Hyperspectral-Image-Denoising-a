@@ -20,7 +20,8 @@ Put your data into the [Data] folder
 The mat file should include [noisy_img] and [img] variables
 ```
 
-- ***Denoising Experiments***
+- ***Denoising Experiments**
+
 ```
 cd Denoise
 python main_*.py
@@ -28,6 +29,7 @@ python main_*.py
 ```
 
 - ***Check Our Denoising Results***
+  
 The denoised hyperspectral images of KAIST, WDC, CAVE, and IP datasets are available here: [Baidu drive](https://pan.baidu.com/s/1vGzzZmltadKDqTf2CPkWxw) (Code: 4g02)
 
 
@@ -49,6 +51,7 @@ Put the downloaded data into the [Data] folder
 ```
 
 - ***Restoration Experiments***
+
 ```
 cd Denoise/CASSI_Restoration/
 python main.py
@@ -56,6 +59,7 @@ python main.py
 ```
 
 - ***Check Our Reconstructed Results***
+  
 The reconstructed hyperspectral images of KAIST datasets are available here: [Baidu drive](https://pan.baidu.com/s/1LJ0W7QiTajowGZp_XCVVRw ) (Code: 87hh)
 
 
