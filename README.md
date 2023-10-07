@@ -9,7 +9,7 @@
 You can download in: [Google drive](https://drive.google.com/drive/folders/17LzFSdVCU2p0pfxbyghjZJw2nlf0yN97?usp=sharing) or [Baidu drive](https://pan.baidu.com/s/1mdLWXgvzkmQscfZu4t4M7A) (Code: u4er)
 
 ```
-Put the downloaded data into the *Data* folder
+Put the downloaded data into the [Data] folder
 
 Alternatively, you can generate noisy hyperspectral images according to the code
 ```
@@ -20,7 +20,7 @@ Alternatively, you can generate noisy hyperspectral images according to the code
 You can download in: [Google drive](https://drive.google.com/drive/folders/17LzFSdVCU2p0pfxbyghjZJw2nlf0yN97?usp=sharing) or [Baidu drive](https://pan.baidu.com/s/1mdLWXgvzkmQscfZu4t4M7A) (Code: u4er)
 
 ```
-Put the downloaded data into the *Data* folder
+Put the downloaded data into the [Data] folder
 ```
 
 
