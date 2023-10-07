@@ -20,7 +20,7 @@ Put your data into the [Data] folder
 The mat file should include [noisy_img] and [img] variables
 ```
 
-- ***Denoising Experiments**
+- ***Denoising Experiments***
 
 ```
 cd Denoise
