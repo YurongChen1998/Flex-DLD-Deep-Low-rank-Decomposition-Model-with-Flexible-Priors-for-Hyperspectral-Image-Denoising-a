@@ -5,7 +5,7 @@
 1) Datasets for hyperspectral images **denoising** experiments include: [KAIST](https://drive.google.com/drive/folders/1EmTZoOkfKnPQHfMCxcYyGH9uJJxzAz_5?usp=sharing), [Washington DC Mall](https://drive.google.com/drive/folders/12QBJk2EvaqjEdd5hNGPICzunT3NZk2XZ?usp=sharing), [CAVE](https://drive.google.com/drive/folders/1MwhGEpO6BzZYZkKtIME-mkFwgdIBBNbL?usp=sharing), [Indian Pines](https://drive.google.com/drive/folders/1vAkEki8JQMP3cavSVIf27b5XVOVudFjm?usp=drive_link)
 
 
-You can download in: [Google drive](https://drive.google.com/drive/folders/1y9wa5fv87D73zW-F2N-5_wK3qPVLq12E?usp=sharing) or [Baidu drive](链接: https://pan.baidu.com/s/1NC-NcqVTR1yIFZyaE0aNOg) (Code: emg2)
+You can download in: [Google drive](https://drive.google.com/drive/folders/1y9wa5fv87D73zW-F2N-5_wK3qPVLq12E?usp=sharing) or [Baidu drive](https://pan.baidu.com/s/1NC-NcqVTR1yIFZyaE0aNOg) (Code: emg2)
 
 ```
 Put the downloaded data into the [Data] folder
