@@ -45,6 +45,7 @@ Put the downloaded data into the [Data] folder
 ```
 cd Denoise/CASSI_Restoration/
 python main.py
+(We have uploaded KAIST Scene01 data. You can run main.py directly.)
 ```
 
 
