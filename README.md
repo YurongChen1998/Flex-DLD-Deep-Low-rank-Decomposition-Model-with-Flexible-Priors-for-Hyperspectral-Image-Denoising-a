@@ -62,7 +62,7 @@ python main.py
 
 - ***Check Our Reconstructed Results***
   
-The reconstructed hyperspectral images of KAIST datasets are available here: [Google drive](https://drive.google.com/drive/folders/1FM5JxG6OmKfCk8rVtFfwtOMthxTfvpNx?usp=sharing) [Baidu drive](https://pan.baidu.com/s/1LJ0W7QiTajowGZp_XCVVRw ) (Code: 87hh)
+The reconstructed hyperspectral images of KAIST datasets are available here: [Google drive](https://drive.google.com/drive/folders/1FM5JxG6OmKfCk8rVtFfwtOMthxTfvpNx?usp=sharing) or [Baidu drive](https://pan.baidu.com/s/1LJ0W7QiTajowGZp_XCVVRw ) (Code: 87hh)
 
 
 
