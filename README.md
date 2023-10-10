@@ -1,5 +1,6 @@
-# Flex-DLD: Deep Low-rank Decomposition Model with Flexible Priors for Hyperspectral Image Denoising and Restoration
+## Flex-DLD: Deep Low-rank Decomposition Model with Flexible Priors for Hyperspectral Image Denoising and Restoration
 
+## HSIs Denoising Experiments
 - ***Denoising Data Preparation***
 
 1) Datasets for hyperspectral images **denoising** experiments include: [KAIST](https://drive.google.com/drive/folders/1EmTZoOkfKnPQHfMCxcYyGH9uJJxzAz_5?usp=sharing), [Washington DC Mall](https://drive.google.com/drive/folders/12QBJk2EvaqjEdd5hNGPICzunT3NZk2XZ?usp=sharing), [CAVE](https://drive.google.com/drive/folders/1MwhGEpO6BzZYZkKtIME-mkFwgdIBBNbL?usp=sharing), [Indian Pines](https://drive.google.com/drive/folders/1vAkEki8JQMP3cavSVIf27b5XVOVudFjm?usp=drive_link)
@@ -39,6 +40,7 @@ The denoised hyperspectral images of KAIST, WDC, CAVE, and IP datasets are avail
 
 
 ---
+## HSIs Restoration Experiments
 - ***Restoration Data Preparation***
   
 Datasets for hyperspectral images **restoration** experiments include: [KAIST](https://drive.google.com/drive/folders/1f_vAYwCmXp1kNcg54yLO145I_tzdpwIs?usp=drive_link)
