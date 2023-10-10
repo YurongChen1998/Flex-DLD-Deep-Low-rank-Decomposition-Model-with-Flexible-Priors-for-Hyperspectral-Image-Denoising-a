@@ -1,4 +1,4 @@
-Code for generating noisy image for simulational HSIs denoising experiments.
+**Code for generating noisy images for simulational HSIs denoising experiments.**
 
 *Case 0*: *Gaussian noise* 
 
