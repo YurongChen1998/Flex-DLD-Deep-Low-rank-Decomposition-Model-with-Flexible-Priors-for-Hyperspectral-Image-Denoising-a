@@ -105,7 +105,7 @@ def Low_Rank_Decomposition_PnP(truth_tensor, temp_l, im_net, spec_net, iter_num,
                 
         loss_1 = tv_loss(model_out0)       
         loss_ = loss_fn(temp_l, model_out0)
-        loss = loss_ + lambda_R*(loss_1 + loss_l2(temp_l, model_out0))
+        loss = loss_ + lambda_R*(loss_1 + loss_l2(temp_l.float(), model_out0.float()))
         loss_array[idx] = loss.item()
         
         optimizer.zero_grad()
