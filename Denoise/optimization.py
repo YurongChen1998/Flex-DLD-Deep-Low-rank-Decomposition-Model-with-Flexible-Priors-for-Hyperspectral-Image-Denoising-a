@@ -68,6 +68,7 @@ def Low_Rank_Decomposition_PnP(truth_tensor, temp_l, im_net, spec_net, iter_num,
     loss_array = np.zeros(iter_num)
     best_loss = float('inf')
     loss_fn = torch.nn.L1Loss().to(device)
+    loss_l2 = torch.nn.MSELoss().to(device)
     Band, H, W = truth_tensor.shape
 
     im_input = get_input([1, rank, H, W]).to(device)
