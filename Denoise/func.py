@@ -10,7 +10,8 @@ import math
 import torch
 import numpy as np
 from pytorch_msssim import ssim
-device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
+device = torch.device("cuda:0" if torch.cuda.is_available() else "CPU")
+
 
 def A(data, Phi):
     return torch.sum(data * Phi, 2)
