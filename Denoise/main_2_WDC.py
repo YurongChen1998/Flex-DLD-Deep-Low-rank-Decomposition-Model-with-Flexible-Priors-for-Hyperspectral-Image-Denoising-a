@@ -44,7 +44,7 @@ elif data_name == 'Case0_35':
 elif data_name == 'Case0_55':
     args.LR_iter, args.R_iter, args.lambda_R = 2200, 400, 0.04
 else:
-    args.LR_iter, args.R_iter, args.lambda_R = 3000, 800, 0.03
+    args.LR_iter, args.R_iter, args.lambda_R = 3000, 800, 0.02
 
 results_dir = './Results/' + data_name + '/'
 if not os.path.exists(results_dir):
