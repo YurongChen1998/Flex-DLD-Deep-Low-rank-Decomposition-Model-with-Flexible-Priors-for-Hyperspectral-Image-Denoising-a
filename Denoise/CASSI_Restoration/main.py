@@ -20,7 +20,7 @@ import warnings
 
 warnings.filterwarnings('ignore')
 device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
-random.seed(5)
+random.seed(1234)
 
 #-----------------------Opti. Configuration -----------------------#
 parser = argparse.ArgumentParser()
