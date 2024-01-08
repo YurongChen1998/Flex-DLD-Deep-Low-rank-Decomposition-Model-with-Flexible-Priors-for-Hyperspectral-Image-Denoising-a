@@ -85,20 +85,6 @@ model/utils.py          : code includes functions for evaluation
 ```
 
 
-
-
-
-
-
----
-- ***Compared Methods***
-
-[Optimization-based HSIs denoising Methods Toolbox](https://github.com/Vandermode/QRNN3D/tree/master/matlab#hyperspectral-image-denoising---a-comprehensive-benchmark)
-
-[MAC-Net](https://github.com/bearshng/mac-net)
-
-[FFDNet](https://github.com/cszn/FFDNet)
-
 [Deep Hyperspectral Prior](https://github.com/acecreamu/deep-hs-prior)
 
 [DeepTensor](https://github.com/vishwa91/DeepTensor)
