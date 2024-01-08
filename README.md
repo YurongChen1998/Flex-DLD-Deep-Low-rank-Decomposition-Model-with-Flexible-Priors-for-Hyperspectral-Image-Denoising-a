@@ -83,10 +83,3 @@ model/common.py         : code includes some network blocks
 model/basicblock.py     : code includes some network blocks
 model/utils.py          : code includes functions for evaluation
 ```
-
-
-[Deep Hyperspectral Prior](https://github.com/acecreamu/deep-hs-prior)
-
-[DeepTensor](https://github.com/vishwa91/DeepTensor)
-
-
